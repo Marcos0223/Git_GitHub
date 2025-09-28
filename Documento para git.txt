@@ -4,6 +4,7 @@ Se creama rama titulo appbar y se modifica el color
 
 ACTUALIZAOS EL ESTILO EL FONDO
 
+EDICIÓN SEGUNDA CUENTA
 
 Se cambia el icono a contactos--AÑADIMOS EN GITHUB
 
